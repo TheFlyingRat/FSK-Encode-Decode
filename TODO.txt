@@ -1,0 +1,1 @@
+Add amplitude, low and high frequency to the class params
