@@ -1,7 +1,7 @@
 """
 Frequency Shift Keying in Python
 Copyright (c) 2023 Joey Manani
-License found at https://cdn.theflyingrat.com/LICENSE.txt
+License found at https://cdn.theflyingrat.com/LICENSE
 Permission is hereby granted to modify, copy and use this app as per the license WITH credit to me and a link to my license
 """
 
